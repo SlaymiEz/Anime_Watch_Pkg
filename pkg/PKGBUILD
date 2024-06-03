@@ -5,7 +5,7 @@ pkgdesc="A C17 anime watching tool"
 arch=('x86_64')
 url="https://example.com/anime_watch"
 license=('GPL')
-depends=('glibc')
+depends=('glibc' 'ncurses')
 
 source=("git+https://github.com/SlaymiEz/Anime_Watch_Pkg.git")
 sha256sums=('SKIP')
