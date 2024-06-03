@@ -1,5 +1,5 @@
 pkgname=anime_watch
-pkgver=1.0
+pkgver=1.0.1
 pkgrel=1
 pkgdesc="A C17 anime watching tool"
 arch=('x86_64')
