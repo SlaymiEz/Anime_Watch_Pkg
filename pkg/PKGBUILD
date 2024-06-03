@@ -3,7 +3,7 @@ pkgver=1.0.1
 pkgrel=1
 pkgdesc="A C17 anime watching tool"
 arch=('x86_64')
-url="https://example.com/anime_watch"
+url="https://github.com/SlaymiEz/Anime_Watch_Pkg"
 license=('GPL')
 depends=('glibc' 'ncurses')
 
