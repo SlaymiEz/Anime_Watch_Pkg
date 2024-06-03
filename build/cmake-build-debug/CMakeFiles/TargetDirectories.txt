@@ -1,3 +1,0 @@
-/home/slaymi/CLionProjects/anime_pkg/build/cmake-build-debug/CMakeFiles/anime_watch.dir
-/home/slaymi/CLionProjects/anime_pkg/build/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/slaymi/CLionProjects/anime_pkg/build/cmake-build-debug/CMakeFiles/rebuild_cache.dir
