@@ -12,7 +12,7 @@ sha256sums=('SKIP')
 
 build() {
   cd "${srcdir}/Anime_Watch_Pkg/build/src"
-  gcc -o anime_watch main.c
+  gcc -o anime_watch main.c -lncurses
 }
 
 package() {
